@@ -9,10 +9,12 @@ using namespace std;
 int main() {
     string line;
     //ifstream myfile("example1.txt");
-    ifstream myfile("example2.txt");
+    //ifstream myfile("example2.txt");
     //ifstream myfile("example3.txt");
     //ifstream myfile("example4.txt");
     //ifstream myfile("example5.txt");
+    //ifstream myfile("example6.txt");
+    ifstream myfile("train.txt");
     int v; // number of vertices
     int e; // number of edges
     int q; // number of queries
